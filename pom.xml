@@ -7,7 +7,13 @@
     <groupId>org.dromara</groupId>
     <artifactId>skyway</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.5-RELEASE</version>
+    <version>1.0.0-RELEASE</version>
+    <modules>
+        <module>skyway-core</module>
+        <module>skyway-common</module>
+        <module>skyway-bootstrap</module>
+        <module>skyway-admin</module>
+    </modules>
     <name>skyway</name>
 
 
