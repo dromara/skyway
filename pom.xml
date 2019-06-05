@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dromara</groupId>
-    <artifactId>bigcat</artifactId>
+    <artifactId>skyway</artifactId>
     <packaging>pom</packaging>
     <version>1.0.5-RELEASE</version>
-    <name>bigcat</name>
+    <name>skyway</name>
 
 
     <organization>
@@ -24,16 +24,16 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/Dromara/bigcat.git</url>
-        <connection>scm:git:https://github.com/Dromara/bigcat</connection>
-        <developerConnection>scm:git:git@github.com:Dromara/bigcat</developerConnection>
+        <url>https://github.com/Dromara/skyway.git</url>
+        <connection>scm:git:https://github.com/Dromara/skyway</connection>
+        <developerConnection>scm:git:git@github.com:Dromara/skyway</developerConnection>
         <tag>${project.version}</tag>
     </scm>
 
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/Dromara/bigcat/issues</url>
+        <url>https://github.com/Dromara/skyway/issues</url>
     </issueManagement>
 
     <developers>
@@ -41,7 +41,7 @@
             <id>xiaoyu</id>
             <name>xiaoyu(Myth)</name>
             <email>549477611@qq.com</email>
-            <organization>free</organization>
+            <organization>org.dromara</organization>
             <roles>
                 <role>Developer</role>
             </roles>
